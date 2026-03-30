@@ -1,0 +1,8 @@
+@import './styles/base.css';
+@import './styles/Navbar.css';
+@import './styles/FloatingMenu.css';
+@import './styles/Footer.css';
+@import './styles/pages/Home.css';
+@import './styles/pages/About.css';
+@import './styles/pages/TestPage.css';
+@import './styles/pages/NotFound.css';

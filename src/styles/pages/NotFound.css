@@ -1,0 +1,8 @@
+.notfound-page {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  min-height: calc(100dvh - var(--nav-h) - 57px);
+}
+.notfound-page p:not(.eyebrow) { color: var(--text); font-size: 14px; }
